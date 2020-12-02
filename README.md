@@ -1,4 +1,4 @@
-In case the project is not visible on github please refer to:<br/>
+If the project is not visible on github, you can use this link:<br/>
 https://nbviewer.jupyter.org/github/RBarroco/project-regression-facebook/blob/master/project-regression.ipynb
 
 Predicting Social Media - Linear regression, Lasso regression, Ridge regression and SGDRegressor: <br/>
